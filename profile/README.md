@@ -1,4 +1,4 @@
-# Standoff 2 Aimbot – Precision Hack for Mobile FPS
+# Standoff 2 Aimbot – Precision Hack
 
 ### Article Description
 
